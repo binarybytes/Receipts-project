@@ -1,0 +1,21 @@
+#beginning of receipt program
+
+#first catalog item
+lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red of white"
+#first catalog item price
+lovely_loveseat_price = 254.00
+
+#second catalog item
+stylish_settee_description = "Stylish Settee. Faux leather on birch. 29.50 inches high x 54.75 inches wife x 28 inches deep. Black."
+#second catalog item price
+stylish_settee_price = 180.50
+
+#third catalog item
+luxurious_lamp_description = "Luxurious lamp. Glass and iron. 36 inches tall. Brown with cream shade."
+#third catalog item price
+luxurious_lamp_price = 52.15
+
+#defining the sales tax which is 8.8%
+sales_tax = .088
+
+
